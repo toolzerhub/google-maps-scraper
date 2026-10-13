@@ -1,0 +1,42 @@
+{
+  "cid": "0x47e671d877937b0f:0xb975fcfa192f84d4",
+  "place_id": "ChIJD3uTd9hx5kcR1IQvGfr8dbk",
+  "name": "Louvre Museum",
+  "categories": [
+    "Art museum",
+    "Museum",
+    "Tourist attraction"
+  ],
+  "address": "75001 Paris, France",
+  "latitude": 48.8606111,
+  "longitude": 2.337644,
+  "phone": "+33 1 40 20 53 17",
+  "website": "https://www.louvre.fr/",
+  "rating": 4.7,
+  "review_count": 379973,
+  "open_status": "Closed · Opens 9 AM Wed",
+  "hours": {
+    "Monday": "9 AM–6 PM",
+    "Tuesday": "Closed",
+    "Wednesday": "9 AM–9 PM",
+    "Thursday": "9 AM–6 PM",
+    "Friday": "9 AM–9 PM",
+    "Saturday": "9 AM–6 PM",
+    "Sunday": "9 AM–6 PM"
+  },
+  "timezone": "Europe/Paris",
+  "description": "Landmark art museum with vast collection",
+  "attributes": {
+    "Accessibility": [
+      "Assisted listening devices",
+      "Assistive hearing loop",
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible restroom",
+      "Wheelchair accessible seating",
+      "Wheelchair rental"
+    ]
+  },
+  "country_code": "FR",
+  "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3uTd9hx5kcR1IQvGfr8dbk"
+}

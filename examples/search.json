@@ -1,0 +1,187 @@
+[
+  {
+    "cid": "0x54906ab2f0c61d05:0x771b2a7dce963d58",
+    "place_id": "ChIJBR3G8LJqkFQRWD2Wzn0qG3c",
+    "name": "Storyville Coffee Pike Place",
+    "categories": [
+      "Coffee shop",
+      "Bakery",
+      "Cafe",
+      "Coffee roastery",
+      "Coffee store",
+      "Espresso bar"
+    ],
+    "address": "94 Pike St Top floor Suite 34, Seattle, WA 98101",
+    "latitude": 47.60895,
+    "longitude": -122.3404309,
+    "phone": "(206) 780-5777",
+    "website": "https://storyville.com/pages/pike-place-market",
+    "rating": 4.6,
+    "review_count": 3229,
+    "open_status": "Open · Closes 5 PM",
+    "hours": {
+      "Monday": "6:59 AM–5 PM",
+      "Tuesday": "6:59 AM–5 PM",
+      "Wednesday": "6:59 AM–5 PM",
+      "Thursday": "6:59 AM–5 PM",
+      "Friday": "6:59 AM–6 PM",
+      "Saturday": "6:59 AM–6 PM",
+      "Sunday": "6:59 AM–6 PM"
+    },
+    "timezone": "America/Los_Angeles",
+    "description": "High-style, modern craft coffee cafe",
+    "attributes": {
+      "Accessibility": [
+        "Wheelchair accessible entrance",
+        "Wheelchair accessible restroom",
+        "Wheelchair accessible parking lot"
+      ]
+    },
+    "country_code": "US",
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBR3G8LJqkFQRWD2Wzn0qG3c"
+  },
+  {
+    "cid": "0x54906b88c68b6ae9:0x675e801f4206257f",
+    "place_id": "ChIJ6WqLxohrkFQRfyUGQh-AXmc",
+    "name": "Overcast Coffee",
+    "categories": [
+      "Coffee shop",
+      "Bar",
+      "Coffee stand",
+      "Coffee store",
+      "Pastry shop"
+    ],
+    "address": "1517 12th Ave Ste 100, Seattle, WA 98122",
+    "latitude": 47.6146106,
+    "longitude": -122.3171338,
+    "phone": "(206) 588-2621",
+    "website": "http://www.overcastcoffee.co/",
+    "rating": 4.7,
+    "review_count": 315,
+    "open_status": "Open · Closes 6 PM",
+    "hours": {
+      "Monday": "7 AM–6 PM",
+      "Tuesday": "7 AM–6 PM",
+      "Wednesday": "7 AM–6 PM",
+      "Thursday": "7 AM–6 PM",
+      "Friday": "7 AM–6 PM",
+      "Saturday": "8 AM–5 PM",
+      "Sunday": "8 AM–5 PM"
+    },
+    "timezone": "America/Los_Angeles",
+    "description": null,
+    "attributes": {
+      "Accessibility": [
+        "Wheelchair accessible entrance",
+        "Wheelchair accessible parking lot"
+      ]
+    },
+    "country_code": "US",
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6WqLxohrkFQRfyUGQh-AXmc"
+  },
+  {
+    "cid": "0x549015c28736b797:0x294909114d275222",
+    "place_id": "ChIJl7c2h8IVkFQRIlInTREJSSk",
+    "name": "Coffee TAB",
+    "categories": [
+      "Coffee shop"
+    ],
+    "address": "211 Lenora St Suit A, Seattle, WA 98121",
+    "latitude": 47.6125094,
+    "longitude": -122.34278099999999,
+    "phone": "(425) 243-7356",
+    "website": "http://coffeetab.org/",
+    "rating": 4.7,
+    "review_count": 634,
+    "open_status": "Open · Closes 3 PM",
+    "hours": {
+      "Monday": "7 AM–3 PM",
+      "Tuesday": "7 AM–3 PM",
+      "Wednesday": "7 AM–3 PM",
+      "Thursday": "7 AM–3 PM",
+      "Friday": "7 AM–3 PM",
+      "Saturday": "7 AM–3 PM",
+      "Sunday": "7 AM–3 PM"
+    },
+    "timezone": "America/Los_Angeles",
+    "description": null,
+    "attributes": {
+      "Accessibility": [
+        "Wheelchair accessible entrance",
+        "Wheelchair accessible restroom"
+      ]
+    },
+    "country_code": "US",
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl7c2h8IVkFQRIlInTREJSSk"
+  },
+  {
+    "cid": "0x54901548f7737cd3:0x5df753db27e66188",
+    "place_id": "ChIJ03xz90gVkFQRiGHmJ9tT910",
+    "name": "Slow Day Coffee",
+    "categories": [
+      "Coffee shop"
+    ],
+    "address": "2103 3rd Ave, Seattle, WA 98121",
+    "latitude": 47.613174199999996,
+    "longitude": -122.3426386,
+    "phone": null,
+    "website": "https://slowday.coffee/",
+    "rating": 4.8,
+    "review_count": 189,
+    "open_status": "Open · Closes 2 PM",
+    "hours": {
+      "Monday": "7 AM–2 PM",
+      "Tuesday": "7 AM–2 PM",
+      "Wednesday": "7 AM–2 PM",
+      "Thursday": "7 AM–2 PM",
+      "Friday": "7 AM–2 PM",
+      "Saturday": "7 AM–2 PM",
+      "Sunday": "7 AM–2 PM"
+    },
+    "timezone": "America/Los_Angeles",
+    "description": null,
+    "attributes": {
+      "Accessibility": [
+        "Wheelchair accessible entrance"
+      ]
+    },
+    "country_code": "US",
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03xz90gVkFQRiGHmJ9tT910"
+  },
+  {
+    "cid": "0x549015006c936f57:0x55de1dbd49029235",
+    "place_id": "ChIJV2-TbAAVkFQRNZICSb0d3lU",
+    "name": "Mintish Coffee House",
+    "categories": [
+      "Coffee shop"
+    ],
+    "address": "515 Harvard Ave E #121, Seattle, WA 98102",
+    "latitude": 47.6237934,
+    "longitude": -122.3221846,
+    "phone": "(206) 779-9772",
+    "website": "https://mintishcoffee.com/",
+    "rating": 5,
+    "review_count": 1251,
+    "open_status": "Open · Closes 6 PM",
+    "hours": {
+      "Monday": "8 AM–6 PM",
+      "Tuesday": "8 AM–6 PM",
+      "Wednesday": "8 AM–6 PM",
+      "Thursday": "8 AM–6 PM",
+      "Friday": "8 AM–6 PM",
+      "Saturday": "8 AM–6 PM",
+      "Sunday": "8 AM–6 PM"
+    },
+    "timezone": "America/Los_Angeles",
+    "description": null,
+    "attributes": {
+      "Accessibility": [
+        "Wheelchair accessible entrance",
+        "Wheelchair accessible restroom",
+        "Wheelchair accessible seating"
+      ]
+    },
+    "country_code": "US",
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2-TbAAVkFQRNZICSb0d3lU"
+  }
+]
