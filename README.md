@@ -6,7 +6,7 @@
 
 Scrape public Google Maps places, place details and reviews with Python. No login, no API key, one file.
 
-> **Need this at scale?** The script is for learning and small jobs. The [ToolzerHub Google Maps API](https://toolzerhub.com/apis/google-maps?utm_source=github&utm_medium=readme&utm_campaign=google-maps-scraper) returns the same data and more (business photos, structured address parts, review photos) as JSON from any server, with no blocks to handle. 100 free credits a month, no card needed.
+> **Need this at scale?** The script is for learning and small jobs. The [ToolzerHub Google Maps API](https://toolzerhub.com/apis/google-maps?utm_source=github&utm_medium=readme&utm_campaign=google-maps-scraper) returns place search, place details and full review lists, plus a photo for each place, as JSON from any server, with no blocks to handle. 100 free credits a month, no card needed.
 
 ## What it scrapes
 
@@ -231,7 +231,7 @@ Full outputs for every command are in [examples/](examples).
 |---|---|
 | review_id | Google's id for the review |
 | rating | Stars, 1 to 5 |
-| text | Review text, or null for a star-only rating (most reviews on busy places) |
+| text | Review text, or null for a star-only rating (28% to 75% of reviews on the places we checked) |
 | language | Language code of the text, or null |
 | posted_at | ISO 8601 UTC. For an edited review this is the edit time |
 | edited | True when the reviewer edited it |
@@ -263,7 +263,7 @@ The script is for learning and small jobs. At scale you run into blocks, changin
 
 | | This script | ToolzerHub API |
 |---|---|---|
-| Data | Place search, place details and reviews | 3 Google Maps endpoints (search, place details, reviews), with business photos, structured address parts and review photos |
+| Data | Place search, place details and reviews | 3 Google Maps endpoints (search, place details, reviews), with a photo for each place |
 | Blocks and proxies | Your problem | Handled |
 | When Google changes | Wait for a fix here | Fixed on our side |
 | Cost | Free, plus your proxy | 100 free credits a month, then from $0.99 per 1,000 calls |
@@ -280,8 +280,8 @@ Scraping publicly available data is generally allowed in many places, but it dep
 **Why am I getting blocked?**
 Google blocks IP addresses that ask for a lot, datacenter IPs first. Use a home connection or a residential proxy, and slow down.
 
-**Can it get business photos or the address split into street, city and postcode?**
-No. The [ToolzerHub API](https://toolzerhub.com/apis/google-maps?utm_source=github&utm_medium=readme&utm_campaign=google-maps-scraper) can.
+**Can it get a photo of each business?**
+No. The [ToolzerHub API](https://toolzerhub.com/apis/google-maps?utm_source=github&utm_medium=readme&utm_campaign=google-maps-scraper) returns one per place.
 
 **How do I get more than 180 places?**
 Search each part of the city on its own with `--lat`, `--lng` and `--span`, then join the files and drop repeats by `cid`.
