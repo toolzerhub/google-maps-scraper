@@ -247,6 +247,8 @@ Full outputs for every command are in [examples/](examples).
 3. `reviews` asks the address Maps uses to load reviews, 20 per page, newest first, and follows the cursor Google returns until it has enough.
 4. Each record is cleaned into the fields above. Counts become integers, times become ISO 8601 UTC and repeats across pages are dropped. Raw arrays are never returned.
 
+A longer walkthrough with timed runs, a city-grid example and datacenter vs residential results: [How to scrape Google Maps with Python](https://toolzerhub.com/blog/how-to-scrape-google-maps?utm_source=github&utm_medium=readme&utm_campaign=google-maps-scraper).
+
 ## Limits
 
 - Public data only.
