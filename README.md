@@ -293,6 +293,8 @@ Search each part of the city on its own with `--lat`, `--lng` and `--span`, then
 - [threads-scraper](https://github.com/toolzerhub/threads-scraper): public Threads profiles, posts, replies and search
 - [reddit-scraper](https://github.com/toolzerhub/reddit-scraper): public subreddits, posts, comments, search and user posts
 - [linkedin-scraper](https://github.com/toolzerhub/linkedin-scraper): public LinkedIn jobs, companies, profiles and posts
+- [facebook-ad-library-scraper](https://github.com/toolzerhub/facebook-ad-library-scraper): public Meta Ad Library ads by keyword or advertiser, with their videos and images
+- [zillow-scraper](https://github.com/toolzerhub/zillow-scraper): public Zillow listings, property details, Zestimates and price history
 
 ## Legal and responsible use
 
